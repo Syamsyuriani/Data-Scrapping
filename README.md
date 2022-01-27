@@ -4,7 +4,7 @@ One of the files contains reviews that have been labeled as positive or negative
 These reviews were taken using google-play-scrapper.
 The reviews taken are only in Indonesian Language.
 
-```ruby
+```python
 pip install google-play-scraper
 
 from google_play_scraper import reviews_all
